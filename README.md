@@ -254,4 +254,4 @@ For issues and questions, please check:
 
 Built with React 18, TypeScript, Vite, and Google Generative AI 🚀
 DONT FORGET TO PASTE API KEYS IN .ENV FILES AND SERVER.JS FILES
-
+- [nithinvisvaM](https://github.com/nithinvisvaM)
